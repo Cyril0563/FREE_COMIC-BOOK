@@ -1,11 +1,9 @@
 # FREE_COMIC-BOOK 免费漫画小说源
-##### ⚠所有资源均收集于网络，仅作学习存档交流使用！所有资源下载后24小时内删除，往下阅读默认你同意要求！⚠
-
-#### 将于15日晚陆续更新，尽请期待！
+##### ⚠仓库内所有资源均收集于网络，仅作学习存档交流使用！所有资源下载后24小时内删除，往下阅读默认你同意要求！⚠
 
 ## 小说APP推荐：
 
-#### 阅读3.0  点击获取书源
+#### 阅读3.0  
 ###### 下载地址：https://www.coolapk.com/apk/256030
 
 #### 锤子小说(自带书源)
@@ -70,3 +68,17 @@ http://www.yckceo.com/yuedu/shuyuan/json/id/6255.json
 ###### 未知名称
 https://booksources.github.io/
 
+## 网络漫画源
+##### &&来源于互联网大佬
+
+###### 亲亲漫画
+http://yck.mumuceo.com/d/RIrHi
+
+###### 禁漫天堂
+http://yck.mumuceo.com/yiciyuan/tuyuan/json/id/478.json
+
+###### 开心漫画
+http://yck.mumuceo.com/d/H2QLW
+
+###### 漫画居
+http://yck.mumuceo.com/d/H2QLW
