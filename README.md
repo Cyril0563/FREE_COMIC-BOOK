@@ -5,8 +5,16 @@
 
 ## 小说APP推荐：
 
-#### 阅读3.0
+#### 阅读3.0  点击获取书源
 ###### 下载地址：https://www.coolapk.com/apk/256030
+
+#### 锤子小说(自带书源)
+###### 下载地址：https://jthn.lanzoub.com/iTRd209lrb1a
+
+#### 海猫小说(自带书源)
+###### 下载地址：https://jthn.lanzoub.com/iV16a09lrgmb
+
+
 
 ## 漫画APP推荐：
 
@@ -58,3 +66,7 @@ http://www.yckceo.com/yuedu/shuyuan/json/id/6263.json
 
 ###### 如文网
 http://www.yckceo.com/yuedu/shuyuan/json/id/6255.json
+
+###### 未知名称
+https://booksources.github.io/
+
