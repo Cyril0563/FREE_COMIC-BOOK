@@ -17,5 +17,10 @@
 
 ## 网络小说源
 
-#### 支持阅读3.0：
+#### 支持阅读3.0书源：
 
+###### 皇帝之家(看帮网) 
+https://cdn.jsdelivr.net/gh/Cyril0563/FREE_COMIC-BOOK@main/yuedu/shuyuan/%E7%9A%87%E5%B8%9D%E4%B9%8B%E5%AE%B6(%E7%9C%8B%E5%B8%AE%E7%BD%91).json
+
+###### 笔趣阁
+https://cdn.jsdelivr.net/gh/Cyril0563/FREE_COMIC-BOOK@main/yuedu/shuyuan/%E7%AC%94%E8%B6%A3%E9%98%81.json
