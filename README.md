@@ -78,10 +78,16 @@ http://yck.mumuceo.com/d/RIrHi
 http://yck.mumuceo.com/yiciyuan/tuyuan/json/id/478.json
 
 ###### 开心漫画
-http://yck.mumuceo.com/d/H2QLW
+http://www.yckceo.com/d/r2jG7
 
 ###### 漫画居
 http://yck.mumuceo.com/d/H2QLW
+
+###### 日韩漫画
+http://www.yckceo.com/d/FPx6m
+
+###### 快看漫画
+http://www.yckceo.com/d/uzwZR
 
 <p>---------------------------------------------------------------------------------------------------------------------------------</p>
 
