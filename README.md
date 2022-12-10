@@ -1,9 +1,7 @@
 # FREE_COMIC-BOOK 免费漫画小说源
 ##### ⚠仓库内所有资源均收集于网络，仅作学习存档交流使用！所有资源下载后24小时内删除，往下阅读默认你同意要求！⚠
 
-![输入图片说明](https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/imgs/codes.png)
-<p>(图片不显示 搜索公众号“源享家”，或yuanxiangjia8)</p>
-<p>回复关键词“<b>看书</b>”获取相关内容！</P>
+## 自己玩吧，书源不再更新维护，白嫖还骂人，告辞！
 
 
 ## 小说APP推荐：
